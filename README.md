@@ -1,6 +1,5 @@
   # arrowix-dev - Graph-Based Editor for LLM Workflows
 
-![Banner](https://raw.githubusercontent.com/sowravhasan/brand-shop/main/A3955FBC-3A6A-4034-A9C4-B5E8A32D973D.png)
 
 
 # 🕸️ Why arrowix-dev?

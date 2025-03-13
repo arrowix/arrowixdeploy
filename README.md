@@ -74,23 +74,5 @@ arrowixdeploy only works with models that support structured-output and json mod
 ⭐ Support us
 You can support us in our work by leaving a star! Thank you!
 
-🗺️ Roadmap
- Canvas
- Async/Batch Execution
- Evals
- Spur API
- Support Ollama
- New Nodes
- LLM Nodes
- If-Else
- Merge Branches
- Tools
- Loops
- RAG
- Pipeline optimization via DSPy and related methods
- Templates
- Compile Spurs to Code
- Multimodal support
- Containerization of Code Verifiers
- Leaderboard
- Generate Spurs via AI
+🗺️ Roadmap:
+ Canvas, Async/Batch Execution, Evals, Spur API, Support Ollama, New Nodes,LLM Nodes, If-Else, Merge Branches, Tools, Loops, RAG, Pipeline optimization via DSPy and related methods, Templates,Compile Spurs to Code, Multimodal support, Containerization of Code,Verifiers, Leaderboard, Generate Spurs via AI

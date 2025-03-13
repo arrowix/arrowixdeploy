@@ -20,7 +20,7 @@ You can launch arrowix-dev using pre-built docker images in the following steps:
 1. **Clone the repository:**
     ```sh
     git clone https://github.com/arrowix/arrowix-dev
-    cd arrowix-dev
+    cd arrowixdeploy
     ```
 
 2. **Create a .env file:**
